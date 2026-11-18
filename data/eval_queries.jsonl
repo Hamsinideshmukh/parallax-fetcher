@@ -1,0 +1,12 @@
+{"query": "read rows from a spreadsheet exported as comma separated values", "expected_url": "https://docs.python.org/3/library/csv.html"}
+{"query": "find all email addresses in a string using a pattern", "expected_url": "https://docs.python.org/3/library/re.html"}
+{"query": "how many days are between two dates", "expected_url": "https://docs.python.org/3/library/datetime.html"}
+{"query": "count how often each word appears in a list", "expected_url": "https://docs.python.org/3/library/collections.html"}
+{"query": "pick a random item from a list", "expected_url": "https://docs.python.org/3/library/random.html"}
+{"query": "all combinations and permutations of a sequence", "expected_url": "https://docs.python.org/3/library/itertools.html"}
+{"query": "join folder names into a file path that works on Windows and Linux", "expected_url": "https://docs.python.org/3/library/pathlib.html"}
+{"query": "store data in a small database file without a server", "expected_url": "https://docs.python.org/3/library/sqlite3.html"}
+{"query": "write warning and error messages to a log file", "expected_url": "https://docs.python.org/3/library/logging.html"}
+{"query": "parse command line flags for my script", "expected_url": "https://docs.python.org/3/library/argparse.html"}
+{"query": "run a shell command and capture its output", "expected_url": "https://docs.python.org/3/library/subprocess.html"}
+{"query": "turn a Python dictionary into a string for an API", "expected_url": "https://docs.python.org/3/library/json.html"}
